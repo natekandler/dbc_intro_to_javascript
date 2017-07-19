@@ -1,5 +1,8 @@
 # JavaScript for Beginners
 
+### Project URL
+[https://dbc-sd-javascript-for-beginners.netlify.com](https://dbc-sd-javascript-for-beginners.netlify.com)
+
 This presentation is intended for absolute beginners. The ultimate goal is for the audience to come away with:
 
 - basic understanding of what Javascript is and why it's important
